@@ -29,9 +29,9 @@ namespace Web.Controllers
             }
         }
 
-        private void get()
+        private bool get()
         {
-            //check Git
+            return true;
         }
     }
 }
