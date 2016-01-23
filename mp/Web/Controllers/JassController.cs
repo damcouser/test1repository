@@ -33,5 +33,9 @@ namespace Web.Controllers
         {
             return "check";
         }
+       private int get()
+        {
+            return 1;
+        }
     }
 }
