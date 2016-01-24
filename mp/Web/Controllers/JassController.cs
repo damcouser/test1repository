@@ -37,5 +37,9 @@ namespace Web.Controllers
         {
             return 1;
         }
+       private string get()
+       {
+           return  "testing";
+       }
     }
 }
