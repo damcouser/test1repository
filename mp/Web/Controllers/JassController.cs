@@ -41,5 +41,13 @@ namespace Web.Controllers
        {
            return  "testing";
        }
+       private string get2()
+       {
+           return "testing22";
+       }
+       private string get3()
+       {
+           return "testing333";
+       }
     }
 }
