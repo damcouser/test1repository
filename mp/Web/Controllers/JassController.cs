@@ -29,25 +29,6 @@ namespace Web.Controllers
             }
         }
 
-        private string get()
-        {
-            return "check";
-        }
-       private int get()
-        {
-            return 1;
-        }
-       private string get()
-       {
-           return  "testing";
-       }
-       private string get2()
-       {
-           return "testing22";
-       }
-       private string get3()
-       {
-           return "testing333";
-       }
+
     }
 }
