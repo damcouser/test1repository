@@ -29,9 +29,9 @@ namespace Web.Controllers
             }
         }
 
-        private bool get()
+        private string get()
         {
-            return true;
+            return "check";
         }
     }
 }
