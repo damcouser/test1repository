@@ -1,0 +1,82 @@
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\obj\Debug\SQL Manager.csprojResolveAssemblyReference.cache
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\obj\Debug\SQL_Manager.Properties.Resources.resources
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\obj\Debug\SQL Manager.csproj.GenerateResource.Cache
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\obj\Debug\SQL_Manager.Main.resources
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\SQL Manager.exe.config
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\SQL Manager.exe
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\SQL Manager.pdb
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\FastColoredTextBox.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Logic.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\Logic.pdb
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\bin\Debug\FastColoredTextBox.xml
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\obj\Debug\SQL Manager.exe
+C:\Users\Lavleen\Pictures\mp\mp\SQL Manager\obj\Debug\SQL Manager.pdb
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\SQL Manager.exe.config
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\SQL Manager.exe
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\SQL Manager.pdb
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\FastColoredTextBox.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Logic.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\Logic.pdb
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\bin\Debug\FastColoredTextBox.xml
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\obj\Debug\SQL Manager.csprojResolveAssemblyReference.cache
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\obj\Debug\SQL_Manager.Main.resources
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\obj\Debug\SQL_Manager.Properties.Resources.resources
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\obj\Debug\SQL Manager.csproj.GenerateResource.Cache
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\obj\Debug\SQL Manager.exe
+C:\Users\Damco\Documents\FRESH Test Project\mp\mp\SQL Manager\obj\Debug\SQL Manager.pdb
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\SQL Manager.exe.config
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\SQL Manager.exe
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\SQL Manager.pdb
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\FastColoredTextBox.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Logic.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\Logic.pdb
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\bin\Debug\FastColoredTextBox.xml
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\obj\Debug\SQL Manager.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\obj\Debug\SQL_Manager.Main.resources
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\obj\Debug\SQL_Manager.Properties.Resources.resources
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\obj\Debug\SQL Manager.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\obj\Debug\SQL Manager.exe
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp\SQL Manager\obj\Debug\SQL Manager.pdb
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\SQL Manager.exe.config
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\SQL Manager.exe
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\SQL Manager.pdb
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\FastColoredTextBox.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Logic.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\Logic.pdb
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\bin\Debug\FastColoredTextBox.xml
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\obj\Debug\SQL Manager.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\obj\Debug\SQL_Manager.Main.resources
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\obj\Debug\SQL_Manager.Properties.Resources.resources
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\obj\Debug\SQL Manager.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\obj\Debug\SQL Manager.exe
+C:\Users\Test\Desktop\FRESH Test Project_DS\mp\mp_Deeraj\mp\SQL Manager\obj\Debug\SQL Manager.pdb

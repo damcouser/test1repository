@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src=""></script>
+    @Scripts.Render("~/bundles/jquery") 
+   
+    <link href="~/Content/Message.css" rel="stylesheet" />
+
+    <!-- BEGIN: START-VIEW -->
+    <script type="text/x-handlebars" id="start">
+        {{model.text}}
+        <hr />
+        Username: {{input value=username}}
+        <br />
+        Password: {{input type="password" value=password}}
+        <br />
+        <button type="button" {{action "login"}}>Login</button>
+    </script>
+
+    <script type="text/x-handlebars" id="jass">
+        hhhhhhhhhhhhhhhhhhhhhhhhh
+        <button type="button" {{action "bytest"}}>By test</button>
+        <br />
+
+        <br />
+
+    </script>
+    <!-- END: START-VIEW -->
+    <!-- BEGIN: MESSAGES-VIEW -->
+    <script type="text/x-handlebars" id="messages">
+        Sort:
+        <button type="button" {{action "byDate"}}>By date</button>
+        <button type="button" {{action "byAuthor"}}>By author</button>
+        <button type="button" {{action "byThread"}}>By thread</button>
+        <table class="hovertable" style="width:70%;border-collapse:collapse;margin:20px;" border="1" cellpadding="2">
+            <tr>
+                <th>Author</th>
+                @*<th>Thread</th>*@
+                <th>Date</th>
+                <th>Status</th>
+            </tr>
+            {{#each message in model.messages}}
+            <tr {{action "viewMessage" message.id }}>
+                <td>{{message.userName}}</td>
+                @*<td> {{message.authorId}}</td>*@
+                @*<td>{{message.threadId}}</td>*@
+                <td>{{ message.createdDate}} </td>
+                <td>{{message.messageStatus}}</td>
+
+            </tr>
+            {{/each}}
+        </table>
+
+        <button type="button" {{action "logout"}}>Logout</button>
+    </script>
+    <!-- END: MESSAGES-VIEW -->
+    <!-- BEGIN: MESSAGE-VIEW -->
+    <script type="text/x-handlebars" id="message">
+        <button type="button" onclick="history.go(-1);">Back</button>
+        <hr />
+        <!-- TODO: single message -->
+        <table class="detail">
+            <tr>
+                <th>Id</th>
+                <th>Author</th>
+                <th>Text</th>
+                <th>Date</th>
+            </tr>
+            <tr>
+                <td>#{{model.id}}</td>
+                <td>
+                    {{model.userName}}
+                </td>
+                <td>   {{model.text}}</td>
+                <td>  {{model.createdDate}}</td>
+
+            </tr>
+        </table>
+        <hr />
+        <button type="button" onclick="history.go(-1);">Back</button>
+    </script>
+    <!-- END: MESSAGE-VIEW -->
+</head>
+<body>
+</body>
+</html>
+
+
